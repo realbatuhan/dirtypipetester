@@ -1,4 +1,4 @@
-# dirtypipetester
+# Dirty Pipe Zafiyet Kontrolü
 Dirty Pipe (CVE-2022-0847) zafiyeti kontrolü 
 
 -Test ettiğiniz sistemin zafiyet durumunu sorgulamak için direkt olarak çalıştırınız.
